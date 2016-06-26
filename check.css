@@ -1,0 +1,68 @@
+html,body
+{
+	background-image:url('e.png');
+	background-repeat: repeat;
+	margin:0;
+	padding:0;
+}
+table
+{
+	border-collapse: collapse;
+	background-color:#66CCFF;
+	padding:5px;
+	margin:auto;
+}
+table, td, th
+{
+    border: 1px solid yellow;
+	padding:5px;
+}
+#login
+{
+	background:#CC99CC;
+	margin:12em 30em 10em 30em;
+	padding:20px;
+}
+#add
+{
+	background:#CC99CC;
+	margin:12em 25em 2em 25em;
+	padding:20px;
+}
+#login a
+{
+	margin-left:10em;
+}
+a
+{
+	text-decoration:none;
+	
+	color:#990000;
+}
+p
+{
+	text-align:center;
+	padding:0;
+}
+h2
+{
+	text-align:center;
+	padding:0;
+	text-shadow: 5px 5px 5px #FF0000;
+	color:#FF0000;
+}
+#reg
+{
+	background:#0033CC;
+	width:20em;
+	padding:5px;
+	margin:12em 20em 15em 33em;
+}
+#addex
+{
+	background:#CC99CC;
+	margin-left:25%;
+	margin-top:15%;
+	width:50%;
+	padding:3%;
+}
